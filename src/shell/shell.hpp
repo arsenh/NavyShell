@@ -2,8 +2,8 @@
 
 #include <string>
 
-class Sumator
+class NavyShell
 {
 public:
-    int sum(int, int);
+    void test();
 };

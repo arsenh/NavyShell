@@ -1,6 +1,8 @@
 #include "shell.hpp"
 
-int Sumator::sum(int a, int b)
+#include <iostream>
+
+void NavyShell::test()
 {
-    return a + b;
+    std::cout << "Navy Shell !" << std::endl;
 }
